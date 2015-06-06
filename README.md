@@ -1,8 +1,8 @@
 ##Here is my Header
 
-*bullet1
+* bullet1
 
-*bullet2
+* bullet2
 
 
 *italics*
